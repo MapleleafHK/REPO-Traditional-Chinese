@@ -42,12 +42,12 @@ if %errorlevel% equ 0 (
 )
 
 :: 若無 .tsv，嘗試尋找並解壓 .zip 檔案
-if exist "REPO-zhHK-v1.0.0-AutoInstall.zip" (
-    echo [執行] 正在解壓縮 REPO-zhHK-v1.0.0-AutoInstall.zip ...
-    powershell -Command "Expand-Archive -Path 'REPO-zhHK-v1.0.0-AutoInstall.zip' -DestinationPath '.' -Force"
+if exist "REPO-zhHK-v1.1.0 -AutoInstall.zip" (
+    echo [執行] 正在解壓縮 REPO-zhHK-v1.1.0 -AutoInstall.zip ...
+    powershell -Command "Expand-Archive -Path 'REPO-zhHK-v1.1.0 -AutoInstall.zip' -DestinationPath '.' -Force"
     goto COPY_FILES
 ) else (
-    echo [錯誤] 找不到 .tsv 檔案或 REPO-zhHK-v1.0.0-AutoInstall.zip。
+    echo [錯誤] 找不到 .tsv 檔案或 REPO-zhHK-v1.1.0 -AutoInstall.zip。
     goto P_PAUSE
 )
 

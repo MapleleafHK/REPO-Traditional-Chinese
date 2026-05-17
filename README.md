@@ -13,4 +13,10 @@
 3. 進入路徑：`REPO_Data/StreamingAssets/Localization`
 4. 將解壓出來的三個 .tsv 檔案複製到`Localization`。
 
+## 移除翻譯方法
+1. 開啟 Steam :arrow_right: 右鍵點擊 `R.E.P.O.` :arrow_right: **「管理」** :arrow_right: **「瀏覽本地檔案」**。
+2. 進入路徑：`REPO_Data/StreamingAssets/Localization`
+3. 刪除`Localization`入面的 .tsv 翻譯檔案。
+
+
 > :warning: **免責聲明**：本翻譯檔案為第三方玩家製作，並非官方提供的繁體中文版本。

@@ -1,4 +1,13 @@
-# :package: R.E.P.O. 繁體中文翻譯檔 (免 Mod)
+# :package: R.E.P.O. 繁體中文翻譯檔 (免 Mod) 
+
+![](https://badgen.net/github/release/MapleleafHK/REPO-Traditional-Chinese/stable)
+![](https://badgen.net/github/releases/MapleleafHK/REPO-Traditional-Chinese/)
+![](https://badgen.net/github/tags/MapleleafHK/REPO-Traditional-Chinese)
+![](https://badgen.net/github/stars/MapleleafHK/REPO-Traditional-Chinese/)<br>
+![](https://badgen.net/github/last-commit/MapleleafHK/REPO-Traditional-Chinese)
+![](https://badgen.net/github/dt/MapleleafHK/REPO-Traditional-Chinese)
+
+
 
 本項目為 《R.E.P.O.》繁體中文（zh-HK）本地化翻譯。
 利用官方最新釋出的 `.tsv` 改寫為繁體中文，玩家**不需要安裝任何第三方模組管理器**，安裝後開機即自動顯示繁體中文。

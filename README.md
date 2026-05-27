@@ -1,5 +1,6 @@
 # :package: R.E.P.O. 繁體中文翻譯檔 (免 Mod) 
 
+![](https://badgen.net//static/Game/R.E.P.O.)<br><br>
 ![](https://badgen.net/github/release/MapleleafHK/REPO-Traditional-Chinese/stable)
 ![](https://badgen.net/github/releases/MapleleafHK/REPO-Traditional-Chinese/)
 ![](https://badgen.net/github/tags/MapleleafHK/REPO-Traditional-Chinese)

@@ -17,7 +17,7 @@
 1. 下載下方的 `REPO-zhHK-vx.x.x-AutoInstall.zip` （或手動下載 Source code）並解壓縮。
 2. 雙擊執行資料夾內的 `AutoIntstall.bat` 即可自動完成路徑偵測與安裝。
 
-## 手動安裝方法
+## 手動安裝方法 (建議)
 1. 下載下方的 `REPO-zhHK-vx.x.x-AutoInstall.zip`（或手動下載 Source code）並解壓縮。
 2. 開啟 Steam :arrow_right: 右鍵點擊 `R.E.P.O.` :arrow_right: **「管理」** :arrow_right: **「瀏覽本地檔案」**。
 3. 進入路徑：`REPO_Data/StreamingAssets/Localization`

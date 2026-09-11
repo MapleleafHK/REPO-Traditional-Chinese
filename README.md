@@ -13,10 +13,6 @@
 本項目為 《R.E.P.O.》繁體中文（zh-HK）本地化翻譯。
 利用官方最新釋出的 `.tsv` 改寫為繁體中文，玩家**不需要安裝任何第三方模組管理器**，安裝後開機即自動顯示繁體中文。
 
-## 自動安裝方法
-1. 下載下方的 `REPO-zhHK-vx.x.x-AutoInstall.zip` （或手動下載 Source code）並解壓縮。
-2. 雙擊執行資料夾內的 `AutoIntstall.bat` 即可自動完成路徑偵測與安裝。
-
 ## 手動安裝方法 (建議)
 1. 下載下方的 `REPO-zhHK-vx.x.x-AutoInstall.zip`（或手動下載 Source code）並解壓縮。
 2. 開啟 Steam :arrow_right: 右鍵點擊 `R.E.P.O.` :arrow_right: **「管理」** :arrow_right: **「瀏覽本地檔案」**。
@@ -28,5 +24,29 @@
 2. 進入路徑：`REPO_Data/StreamingAssets/Localization`
 3. 刪除`Localization`入面的 .tsv 翻譯檔案。
 
+## 內容預覽
+### 地圖
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/Map_info.png)
+
+### 設定
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/Settings_info.png)
+
+### 月亮
+Level 1:
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/moon_info_1.png)
+
+Level 2:
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/moon_info_2.png)
+
+Level 3:
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/moon_info_3.png)
+
+Level 4:
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/moon_info_4.png)
+
+### 卡車內顯示屏
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/car_info.png)
+
+![image](https://github.com/MapleleafHK/REPO-Traditional-Chinese/blob/main/Image/car_info_2.png)
 
 > :warning: **免責聲明**：本翻譯檔案為第三方玩家製作，並非官方提供的繁體中文版本。
